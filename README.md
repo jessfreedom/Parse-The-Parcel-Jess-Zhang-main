@@ -12,8 +12,9 @@ The above example is for a parcel that weights 10kg, with dimensions of 150mm x 
 
 (The order of the dimension specified in the arguments does not matter).
 
-
 For help, run:
 
     python main.py --help 
 
+## Tests ##
+    python package_handler_test.py
